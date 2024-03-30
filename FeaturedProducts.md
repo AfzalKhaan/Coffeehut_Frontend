@@ -6,3 +6,5 @@
 + French Crossiant
 + Maple Oat Sticky cake
 + Apple Honey Pie
+
+  new discount: discount to loyal costomers is applicable only on non-beverage purchase.
